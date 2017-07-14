@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "Add verified badges to all twitter accounts.",
+  "author": "AKT",
+  "homepage_url": "https://github.com/itsakt/twitter-verify-em-all",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
